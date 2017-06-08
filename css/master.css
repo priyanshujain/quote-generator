@@ -1,0 +1,64 @@
+body {
+  margin: 60px;
+  background-color: rgb(27, 129, 180);
+}
+#content{
+  background-color: white;
+  border-radius: 20px;
+  margin: 30px;
+  margin-bottom: 50px;
+}
+.line{
+  width: 60%;
+  border: 2px solid rgb(14, 24, 27);
+  margin: auto;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  font-size: 40px;
+
+}
+#timeline{
+  margin: 25px;
+  border-radius: 20px;
+  background-color: white;
+
+}
+#quotebutton{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+#quote{
+  font-size: 50px;
+  font-style: italic;
+}
+button#newquote {
+  text-align: center;
+  font-family: Aniron;
+  font-size: 30px;
+  padding: 15px;
+  border-radius: 25px;
+  border: 5px solid black;
+  background: rgb(30,30,30);
+  color: white;
+  cursor: pointer;
+}
+.tweet {
+  padding: 0px;
+  background: none;
+  color: #00ADEF;
+  border: none;
+}
+.facebook {
+  padding: 0px;
+  background: white;
+  color: rgba(#003cee, 0.7);
+  border: none;
+  margin-left: 20px;
+}
+footer{
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
